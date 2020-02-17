@@ -1,5 +1,7 @@
 # useIntersectionObserver
 
+https://use-intersection-observer.now.sh
+
 ```
 npm i @ash/use-intersection-observer
 ```
