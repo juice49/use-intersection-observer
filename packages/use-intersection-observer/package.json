@@ -1,5 +1,5 @@
 {
-  "name": "use-intersection-observer",
+  "name": "@ash/use-intersection-observer",
   "version": "0.0.0",
   "description": "",
   "source": "src/index.ts",

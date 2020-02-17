@@ -8,7 +8,7 @@
     "next": "^9.2.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "use-intersection-observer": "^1.0.0"
+    "@ash/use-intersection-observer": "^1.0.0"
   },
   "scripts": {
     "dev": "next",
