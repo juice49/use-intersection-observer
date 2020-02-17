@@ -1,0 +1,21 @@
+{
+  "name": "use-intersection-observer-examples",
+  "version": "1.0.0",
+  "author": "Ash",
+  "license": "MIT",
+  "dependencies": {
+    "human-id": "^2.0.1",
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "use-intersection-observer": "^1.0.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.19",
+    "typescript": "^3.7.5"
+  }
+}
