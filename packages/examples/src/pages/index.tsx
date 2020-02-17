@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import humanId from 'human-id'
-import useIntersectionObserver from 'use-intersection-observer/dist/index.js'
+import useIntersectionObserver from '@ash/use-intersection-observer/dist/index.js'
 
 const Page = () => {
   const [ids, setIds] = useState(new Set<string>())
